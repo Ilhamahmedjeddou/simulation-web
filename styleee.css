@@ -1,0 +1,86 @@
+.paragraphs {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+ 
+}
+.garden {
+  line-height: 20px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.garden{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(63, 61, 61);
+}
+.logo-doc {
+  display: flex ;
+  justify-content: flex-start;
+  width: 268px;
+ height: 33px
+}
+.urls {
+  display:flex;
+  justify-content:flex-end;
+  color: rgb(148, 172, 164);
+
+
+}
+.liste {
+  display: flex;
+  justify-content: flex-end;
+  color: rgb(93, 168, 143);
+ line-height: 1cm;
+  width: 268px;
+  height: 33px
+
+}
+.lead{
+  margin: 2.0625rem auto 3.75rem;
+}
+.b1{
+  display: flex;
+  flex-direction:column;
+  box-sizing: inherit;
+  height: 345;
+  background-color: rgb(115, 170, 152);
+  padding: 2em 2em;
+  
+}
+.b2{
+  display: flex;
+  flex-direction:column;
+  box-sizing: inherit;
+  height: 345;
+  background-color: rgb(0, 0, 255);
+  padding: 2em 2em;
+}
+.b3{
+  display: flex;
+  flex-direction:column;
+  box-sizing: inherit;
+  height: 345;
+  background-color: rgb(44, 35, 35);
+  padding: 2em 2em;
+}
+.photo{
+  width: 200px;
+  height: 33px
+  
+}
+.blocks {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  padding: 1.375em 1.25em
+
+}
